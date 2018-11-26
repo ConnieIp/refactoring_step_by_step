@@ -4,7 +4,8 @@
 - data class: private
 - duplicate code: duplicate return
 - comments: checkDriver method name
-- driver age >= 18
+- comments: driver age >= 18
+//-- long method--
 
 2. add test
 
