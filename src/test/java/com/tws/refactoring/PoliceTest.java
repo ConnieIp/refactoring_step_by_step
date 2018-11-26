@@ -1,5 +1,5 @@
-import com.tws.refactoring.Driver;
-import com.tws.refactoring.Police;
+package com.tws.refactoring;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
