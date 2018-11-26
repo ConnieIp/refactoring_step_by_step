@@ -6,4 +6,8 @@ public class Police {
     public boolean checkDriver(Driver driver) {
         return (driver.getAge() >= this.validAge);
     }
+
+    public boolean checkDriverAge(Driver driver) {
+        return (driver.getAge() >= this.validAge);
+    }
 }
